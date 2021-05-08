@@ -26,3 +26,5 @@ struct ContentView_Previews: PreviewProvider {
 // Complicated Function
 
 // important
+
+// speed test
